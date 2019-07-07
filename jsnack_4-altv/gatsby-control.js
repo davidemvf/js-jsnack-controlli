@@ -13,7 +13,6 @@ while (Number(utente)) {
   utente = prompt("Il cognome prego");
 }
 
-
 // verifico se il suo cognome è presente nella lista
 
   for (i=0; i < invitati.length; i++) {
